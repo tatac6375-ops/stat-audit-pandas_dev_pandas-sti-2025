@@ -19,7 +19,7 @@
 
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|---|---|---|---|
-| 1 |  |  |  | TBD |
+| 1 |  | ChatGPT |  | TBD |
 | 2 |  |  |  | TBD |
 | 3 |  |  |  | TBD |
 | 4 |  |  |  | TBD |
