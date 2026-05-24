@@ -47,7 +47,7 @@ python fetch_data.py
 
 # 3. Jalankan notebook secara berurutan
 jupyter notebook
-
+```
 
 # Struktur Repository
 
