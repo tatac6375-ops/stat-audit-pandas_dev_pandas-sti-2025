@@ -1,4 +1,4 @@
-# stat-audit--project-name--sti-2025
+# stat-audit--pandas-dev/pandas-2025
 # Statistical Health Report — pandas-dev/pandas
 
 > Audit statistik terhadap repository open-source **pandas-dev/pandas** menggunakan konsep Statistika dan Probabilitas (Minggu 11–14) STI 2025.  
@@ -20,10 +20,10 @@
 
 | Member | Nama | NIM | Role |
 |---|---|---|---|
-| A | Tsabita Nuriska R | 1519625050 | Data Engineer |
-| B | Nafilham | [NIM] | Estimation Analyst |
-| C | Daffa | [NIM] | Inference Analyst |
-| D | Yunus | [NIM] | Hypothesis Analyst |
+| A | Tsabita Nuriska Ramadhani | 1519625050 | Data Engineer |
+| B | Muhammad Nafilham Athaya | 1519625041 | Estimation Analyst |
+| C | Daffa  Raditia Nova |  1519625058 | Inference Analyst |
+| D | Muhammad Yunus Setiaji | 1519625043 | Hypothesis Analyst |
 | E | Bintang | [NIM] | Computational Analyst |
 
 
@@ -34,6 +34,19 @@
 1. TBD
 2. TBD
 3. TBD
+
+
+# Cara Menjalankan
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Ambil data GitHub API
+python fetch_data.py
+
+# 3. Jalankan notebook secara berurutan
+jupyter notebook
 
 
 # Struktur Repository
